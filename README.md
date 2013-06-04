@@ -7,3 +7,5 @@ How fast can you get from the top to the stairs? And what do you notice on the w
 
 
 (C) Bernhard Reiterer, 2013
+
+Note: copyright of assets/HaxeFlixel.svg and all files in assets/data belongs to the creators of Flixel/HaxeFlixel.
