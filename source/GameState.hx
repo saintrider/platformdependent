@@ -14,6 +14,9 @@ import org.flixel.FlxText;
 import org.flixel.FlxTilemap;
 import org.flixel.FlxU;
 
+/**
+ * (C) 2013 Bernhard Reiterer
+ */
 class GameState extends FlxState
 {
 	
